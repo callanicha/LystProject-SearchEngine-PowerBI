@@ -20,4 +20,4 @@ and provides insights to optimize marketing spend.
 
 
 ## Dashboard Preview
-![Dashboard Overview](assets/page1.png)
+![Dashboard Overview](/assets/page1.png)
