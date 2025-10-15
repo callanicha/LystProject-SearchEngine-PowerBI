@@ -1,4 +1,4 @@
-# The Lyst – Power BI Keyword Dashboard
+# Lyst Project – Power BI Keyword Dashboard
 
 Interactive **Power BI / Excel** analysis of Google Ads search-engine data for  
 **The Lyst**, a **฿50 million** home-office development project in Bangkok.  
